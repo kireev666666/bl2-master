@@ -20,7 +20,7 @@ namespace ConsoleApp7
             int place1 = (int)place;//"3"
 
             char hasFingerPrints = '0';//to boolean
-            bool hasFingerPrints1 = Convert.ToBoolean(hasFingerPrints);//impossible
+            bool hasFingerPrints1 = Convert.ToBoolean(hasFingerPrints);//not compiling
 
             //2. STRING CONVERSION           
             string hasPhotoString = "True";//to bolean
